@@ -1,0 +1,11 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  background: #000;
+  overflow: hidden;
+  cursor: none; /* hide default cursor */
+}
+
+canvas{
+  display: block;
+}
